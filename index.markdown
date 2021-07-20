@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Grapefruit Games
 ---
 
 ## Grapefruit Games is a small independent game studio in Aotearoa New Zealand.
