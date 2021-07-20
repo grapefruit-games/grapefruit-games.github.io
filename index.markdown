@@ -6,7 +6,7 @@ layout: page
 title: Grapefruit Games
 ---
 
-We're a small independent video game studio in Aotearoa New Zealand
+**We're a small independent video game studio in Aotearoa New Zealand.**
 
 We have some availability for new contracts and remote work in 2021-2022.
 
@@ -17,10 +17,8 @@ Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 ## What we do
 
 - Game design, player-centered experience design
-- General development and programming for mobile, desktop, or web
-- Code in Unity C#, Swift, Haxe, JS
-- Dev in Unity, XCode, HaxeFlixel
-- Level design in Unreal 4 or idTech engines
+- General development and programming for mobile, desktop, and web
+- Code in Unity C#, Swift, Haxe, JS; dev in Unity, XCode, HaxeFlixel
 
 ***
 
@@ -28,7 +26,7 @@ Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
 ### ["Tumble Time"](https://www.devolvertumbletime.com/) for [NOPOPO](http://nopopo.fun/) / [Devolver Digital](https://www.devolverdigital.com/)
 
-We're handling all technical development and integrations for Tumble Time, a sarcastic yet engaging free-to-play mobile game featuring IP across indie publisher Devolver Digital's entire catalog. Coming to iOS and Android in 2021.
+We're handling all technical development and integrations for Tumble Time, a sarcastic yet engaging free-to-play mobile game featuring IP across indie publisher Devolver Digital's entire catalog. Coming soon to iOS and Android. (press: 
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SG4nb-aajLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -49,6 +47,6 @@ For work inquiries, please email [contact@grapefruitgames.com](mailto:contact@gr
 
 We're an experienced husband-husband design / dev duo, currently based in Auckland, New Zealand.
 
-**Eddie Cameron** is a designer / programmer. Before co-founding Grapefruit Games, Eddie served as Senior Engineer at Dots, building visually stylish mobile puzzle games for millions of players. (Website: [https://eddiecameron.fun](https://eddiecameron.fun); Twitter: [@eddiecameron](https://twitter.com/eddiecameron))
+**Eddie Cameron** is a designer / programmer. Before co-founding Grapefruit Games, Eddie served as Senior Engineer at [Dots](https://www.dots.co/), building visually stylish mobile puzzle games for millions of players. (Website: [https://eddiecameron.fun](https://eddiecameron.fun); Twitter: [@eddiecameron](https://twitter.com/eddiecameron))
 
-**Robert Yang** is an artist / developer. Before co-founding Grapefruit Games, Robert was an assistant professor of game design at New York University, teaching design and development at the university level for 8 years. Robert's solo work has been exhibited around the world, most recently at the Victoria & Albert Museum in London, and he has given dozens of talks on game design and culture. (Website: [https://debacle.us](https://debacle.us); Twitter: [@radiatoryang](https://twitter.com/radiatoryang))
+**Robert Yang** is an artist / developer. Before co-founding Grapefruit Games, Robert was an assistant professor of game design at [New York University's Game Center](https://gamecenter.nyu.edu/), teaching design and dev for 8 years. Robert's work has been exhibited around the world and he has given dozens of talks on games and culture. (Website: [https://debacle.us](https://debacle.us); Twitter: [@radiatoryang](https://twitter.com/radiatoryang))
