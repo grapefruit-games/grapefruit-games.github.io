@@ -6,11 +6,13 @@ layout: page
 title: Grapefruit Games
 ---
 
-## Grapefruit Games is a small independent game studio in Aotearoa New Zealand.
+# Grapefruit Games is a small independent game studio in Aotearoa New Zealand.
 
-We have some availability for new contracts and remote work in 2021-2022. Email us for info: contact@grapefruitgames.com
+We have some availability for new contracts and remote work in 2021-2022.
 
-### What we do
+Email us for info: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
+
+## What we do
 - Game design, player-centered experience design
 - General development and programming for mobile, desktop, or web
 - Code in Unity C#, Swift, Haxe, JS
@@ -18,23 +20,23 @@ We have some availability for new contracts and remote work in 2021-2022. Email 
 - Level design in Unreal 4 or idTech engines
 
 
-### What we've made
+## What we've made
 
-#### "Tumble Time" for NOPOPO / Devolver Digital
+### "Tumble Time" for NOPOPO / Devolver Digital
 
-#### "We Dwell in Possibility" for Manchester International Festival
+### "We Dwell in Possibility" for Manchester International Festival
 
 
-### Who we are
+## Who we are
 
 We are an experienced husband-husband design / dev duo, currently based in Auckland, New Zealand. We routinely work with US / EU teams, time zones aren't a problem. For work inquiries, email contact@grapefruitgames.com
 
 **Eddie Cameron** is a designer / programmer. Before co-founding Grapefruit Games, Eddie served as Senior Engineer at Dots, building visually stylish mobile puzzle games for millions of players.
-- email: eddie@eddiecameron.fun
-- website: https://eddiecameron.fun
+- email: [eddie@eddiecameron.fun](mailto:eddie@eddiecameron.fun)
+- website: [https://eddiecameron.fun](https://eddiecameron.fun)
 - twitter: [@eddiecameron](https://twitter.com/eddiecameron)
 
 **Robert Yang** is an artist / developer. Before co-founding Grapefruit Games, Robert was an assistant professor of game design at New York University, teaching design and development at the university level for 8 years. Robert's solo work has been exhibited around the world, most recently at the Victoria & Albert Museum in London, and he has given dozens of talks on game design and culture.
-- email: yang.robert.w@gmail.com
-- website: https://debacle.us
+- email: [yang.robert.w@gmail.com](mailto:yang.robert.w@gmail.com)
+- website: [https://debacle.us](https://debacle.us)
 - twitter: [@radiatoryang](https://twitter.com/radiatoryang)
