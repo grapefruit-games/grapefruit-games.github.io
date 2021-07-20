@@ -24,12 +24,21 @@ Email us for info: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.
 
 ### "Tumble Time" for NOPOPO / Devolver Digital
 
+We're handling all technical development and integrations for Tumble Time, a sarcastic yet engaging free-to-play mobile game featuring IP across indie publisher Devolver Digital's entire catalog. Coming to iOS and Android in 2021.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SG4nb-aajLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### "We Dwell in Possibility" for Manchester International Festival
 
+In collaboration with illustrator Eleanor Davis, we designed and developed a lush interactive simulation game for the Manchester International Festival's "Virtual Factory" 2021 programme. Although it contains dozens of different objects across thousands of animation frames, we crunched all the game files down into a 22 mb footprint suitable for a HTML5 web format, compatible across iOS, Android, and desktop browsers.
+
+<img src="assets/wedip.jpg"/>
 
 ## Who we are
 
-We are an experienced husband-husband design / dev duo, currently based in Auckland, New Zealand. We routinely work with US / EU teams, time zones aren't a problem. For work inquiries, email contact@grapefruitgames.com
+For work inquiries, please email [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
+
+We're an experienced husband-husband design / dev duo, currently based in Auckland, New Zealand.
 
 **Eddie Cameron** is a designer / programmer. Before co-founding Grapefruit Games, Eddie served as Senior Engineer at Dots, building visually stylish mobile puzzle games for millions of players.
 - email: [eddie@eddiecameron.fun](mailto:eddie@eddiecameron.fun)
