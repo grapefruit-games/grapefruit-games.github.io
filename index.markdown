@@ -37,7 +37,7 @@ We're handling all technical development and integrations for Tumble Time, a sar
 
 ### "We Dwell in Possibility" for Manchester International Festival
 
-In collaboration with illustrator Eleanor Davis, we designed and developed a lush interactive simulation game for the Manchester International Festival's "Virtual Factory" 2021 programme. Although it contains dozens of different objects across thousands of animation frames, we crunched all the game files down into a 22 mb footprint suitable for a HTML5 web format, compatible across iOS, Android, and desktop browsers.
+In collaboration with illustrator Eleanor Davis, we designed and developed a lush interactive simulation game for the Manchester International Festival's "Virtual Factory" 2021 programme. Although it contains dozens of different objects across thousands of animation frames, we crunched all the game files down into a 22 mb footprint suitable for a HTML5 web format -- compatible across iOS, Android, and desktop browsers. (press: [VICE](https://www.vice.com/en/article/3aq5mk/we-dwell-in-possibility-review), [PC Gamer](https://www.pcgamer.com/tend-and-grow-a-garden-full-of-naked-festival-goers/), [Kotaku](https://kotaku.com/we-dwell-in-possibility-is-a-game-about-queer-paradise-1847253731))
 
 <img width="100%" height="100%" src="images/wedip.jpg"/>
 
