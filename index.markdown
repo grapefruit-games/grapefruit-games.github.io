@@ -6,11 +6,11 @@ layout: page
 title: Grapefruit Games
 ---
 
-We're a small independent game studio in Aotearoa New Zealand.
+## a small independent video game studio in Aotearoa New Zealand
 
 We have some availability for new contracts and remote work in 2021-2022.
 
-Email us for info: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
+Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
 ***
 
@@ -26,7 +26,7 @@ Email us for info: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.
 
 ## What we've made
 
-### "Tumble Time" for NOPOPO / Devolver Digital
+### ["Tumble Time"](https://www.devolvertumbletime.com/) for [NOPOPO](http://nopopo.fun/) / [Devolver Digital](https://www.devolverdigital.com/)
 
 We're handling all technical development and integrations for Tumble Time, a sarcastic yet engaging free-to-play mobile game featuring IP across indie publisher Devolver Digital's entire catalog. Coming to iOS and Android in 2021.
 
@@ -35,9 +35,9 @@ We're handling all technical development and integrations for Tumble Time, a sar
 </div>
 
 
-### "We Dwell in Possibility" for Manchester International Festival
+### ["We Dwell in Possibility"](https://virtual-factory.co.uk/) for [Manchester International Festival](https://mif.co.uk/)
 
-In collaboration with illustrator Eleanor Davis, we designed and developed a lush interactive simulation game for the Manchester International Festival's "Virtual Factory" 2021 programme. Although it contains dozens of different objects across thousands of animation frames, we crunched all the game files down into a 22 mb footprint suitable for a HTML5 web format -- compatible across iOS, Android, and desktop browsers. (press: [VICE](https://www.vice.com/en/article/3aq5mk/we-dwell-in-possibility-review), [PC Gamer](https://www.pcgamer.com/tend-and-grow-a-garden-full-of-naked-festival-goers/), [Kotaku](https://kotaku.com/we-dwell-in-possibility-is-a-game-about-queer-paradise-1847253731))
+In collaboration with illustrator Eleanor Davis, we designed and developed a lush interactive simulation game as an arts commission for the Manchester International Festival's "Virtual Factory" 2021 programme. Although it contains dozens of different objects across thousands of animation frames, we crunched all the game files down into a 22 mb footprint suitable for a HTML5 web format -- compatible across iOS, Android, and desktop browsers. (press: [VICE](https://www.vice.com/en/article/3aq5mk/we-dwell-in-possibility-review), [PC Gamer](https://www.pcgamer.com/tend-and-grow-a-garden-full-of-naked-festival-goers/), [Kotaku](https://kotaku.com/we-dwell-in-possibility-is-a-game-about-queer-paradise-1847253731))
 
 <img width="100%" height="100%" src="images/wedip.jpg"/>
 
