@@ -6,7 +6,7 @@ layout: page
 title: Grapefruit Games
 ---
 
-## a small independent video game studio in Aotearoa New Zealand
+We're a small independent video game studio in Aotearoa New Zealand
 
 We have some availability for new contracts and remote work in 2021-2022.
 
