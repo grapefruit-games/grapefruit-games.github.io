@@ -8,8 +8,6 @@ title: Grapefruit Games
 
 **We're a small independent video game studio in Aotearoa New Zealand.**
 
-~We have some availability for new contracts and remote work.~
-
 Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
 ***
