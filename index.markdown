@@ -8,7 +8,7 @@ title: Grapefruit Games
 
 **We're a small independent video game studio in Aotearoa New Zealand.**
 
-We have some availability for new contracts and remote work in 2021-2022.
+~We have some availability for new contracts and remote work.~
 
 Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
@@ -24,9 +24,16 @@ Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
 ## What we've made
 
+### ["Eel Afield" / "He tuna kei tua"](https://www.heihei.nz/game/180/eel-afield) for [HEIHEI Games (TVNZ + NZ On Air)](https://www.heihei.nz/games)
+
+In collaboration with illustrator [Dave Hill](https://davehillustration.co.uk/), we made a storybook action-adventure browser game about navigating Aotearoa New Zealand's waterways as a young tuna (longfin eel). Features 8 levels of colorful characters like pūkeko philosophers and paradise duck princesses, as well as hazards like hungry kingfishers and scary hydro turbines, all in a vibrant New Zealand setting. Includes full te reo Māori localization.
+
+<img width="100%" height="100%" src="images/eel.png"/>
+
+
 ### ["Tumble Time"](https://www.devolvertumbletime.com/) for [NOPOPO](http://nopopo.fun/) / [Devolver Digital](https://www.devolverdigital.com/)
 
-We're handling all technical development and integrations for Tumble Time, a sarcastic yet engaging free-to-play mobile game featuring IP across indie publisher Devolver Digital's entire catalog. Coming soon to iOS and Android. 
+We're handling all technical development and integrations for Tumble Time, a sarcastic yet engaging free-to-play mobile game featuring IP across indie publisher Devolver Digital's entire catalog.
 
 <div class="youtube">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SG4nb-aajLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
