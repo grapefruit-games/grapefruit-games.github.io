@@ -26,7 +26,7 @@ Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
 In collaboration with illustrator [Dave Hill](https://davehillustration.co.uk/), we made a storybook action-adventure browser game about navigating Aotearoa New Zealand's waterways as a young tuna (longfin eel). Features 8 levels of colorful characters like pūkeko philosophers and paradise duck princesses, as well as hazards like hungry kingfishers and scary hydro turbines, all in a vibrant New Zealand setting. Includes full te reo Māori localization.
 
-<img width="100%" height="100%" src="images/eel.png"/>
+<img width="100%" height="100%" src="images/eel2.png"/>
 
 
 ### ["Tumble Time"](https://www.devolvertumbletime.com/) for [NOPOPO](http://nopopo.fun/) / [Devolver Digital](https://www.devolverdigital.com/)
