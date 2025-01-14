@@ -26,5 +26,12 @@ hr { padding: 0; margin: 64px; }
 }
 
 .tryhard { font-family: 'Nunito', sans-serif !important; background-color: #6CC2FF; margin: 0; padding: 0;}
-.tryhard h1 { text-align: center; font-size: 64px !important; text-transform: uppercase; color: #FEDE57; display: block; }
-.tryhard .wrapper { max-width: 800px; margin: 0 auto; }
+.tryhard h1 { text-align: center; font-size: 64px !important; text-transform: uppercase; color: #FEDE57; display: block; 
+  font-weight: bold; 
+  font-style: italic;  
+  text-shadow:
+    3px 3px 0 #000,
+    -3px 3px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
+}
