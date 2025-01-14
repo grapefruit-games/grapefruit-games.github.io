@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Tryhard by Grapefruit Games
+layout: tryhard
+title: Tryhard, a sports RPG by Grapefruit Games
 ---
 
 <img width="100%" height="100%" src="images/tryhard_header.png"/>
