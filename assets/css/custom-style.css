@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;900&display=swap');
 
 body { font-family: 'Poppins', sans-serif !important; }
 
@@ -27,8 +27,8 @@ hr { padding: 0; margin: 64px; }
 
 .tryhard { font-family: 'Nunito', sans-serif !important; background-color: #1486fe; color: white; font-size: 20px; margin: 0; padding: 0;}
 .tryhard a { color: #7cbcfd; font-weight: bold; }
-.tryhard h1 { text-align: center; font-size: 64px !important; text-transform: uppercase; color: #FEDE57; display: block; 
-  font-weight: bold; 
+.tryhard h1 { text-align: center; font-size: 100px !important; text-transform: uppercase; color: #FEDE57; display: block; 
+  font-weight: 900; 
   font-style: italic;  
   text-shadow:
     3px 3px 0 #000,
