@@ -25,7 +25,7 @@ hr { padding: 0; margin: 64px; }
   border: 0;
 }
 
-.tryhard { font-family: 'Nunito', sans-serif !important; background-color: #6CC2FF; margin: 0; padding: 0;}
+.tryhard { font-family: 'Nunito', sans-serif !important; background-color: #1486fe; color: white; margin: 0; padding: 0;}
 .tryhard h1 { text-align: center; font-size: 64px !important; text-transform: uppercase; color: #FEDE57; display: block; 
   font-weight: bold; 
   font-style: italic;  
