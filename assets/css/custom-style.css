@@ -51,6 +51,15 @@ hr { padding: 0; margin: 64px; }
 .tryhard h3 { font-weight: 900; }
 .tryhard li { line-height: 1.5em; }
 
+input {
+  background-color: #1b2838;
+  color: #FEDE57;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 12px;
+  font-weight: bold;
+}
+
 .steambutton {
   display: block;
   font-size: 30px;
