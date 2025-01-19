@@ -42,15 +42,16 @@ hr { padding: 0; margin: 64px; }
     -3px -3px 0 #000,
     3px -3px 0 #000;
 }
-.tryhard h2 a { color: white !important; }
+.tryhard h2 a { color: white !important; font-weight: normal !important;}
 
 .steambutton {
-  font-size: 40px;
+  display: block;
+  font-size: 30px;
   background-color: #333;
   color: #FEDE57;
-  border: none;
-  padding: 10px 40px 10px 10px;
-  border-radius: 4px;
+  border: 2px solid black;
+  padding: 20px 60px 20px 20px;
+  border-radius: 8px;
   background-image: url("https://grapefruitgames.com/tryhard/images/steam.png");
   background-position: right;
   background-size: contain;
