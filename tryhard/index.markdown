@@ -20,14 +20,14 @@ title: Tryhard, a sports RPG by Grapefruit Games
 - Build the perfect squad from dozens of skills.
 - Rugby knowledge is OPTIONAL. Most rugby players don't know anything about rugby either.
 
-<img width="100%" height="100%" src="tryhard/images/battle1_006.gif" alt="animated GIF of an auto battle sequence"/>
+<img width="100%" height="100%" src="images/battle1_006.gif" alt="animated GIF of an auto battle sequence"/>
 
 ### MANAGE A SPORTS CLUB
 - Search for club sponsors and fundraise for new equipment.
 - You'll need to recruit a secretary, treasurer, and patron too.
 - File paperwork and argue with the bank! The possibilities are endless.
 
-<img width="100%" height="100%" src="tryhard/images/tryhard_characters_bust.png" alt="some of the characters"/>
+<img width="100%" height="100%" src="images/tryhard_characters_bust.png" alt="some of the characters"/>
 
 ### LIVE IN VIRTUAL NEW ZEALAND
 - Even if you lose, the story mode continues, just like real-life.
