@@ -14,14 +14,14 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
 </p>
 <form
-  action="https://buttondown.com/api/emails/embed-subscribe/tryhard"
+  action="https://buttondown.com/api/emails/embed-subscribe/grapefruitgames"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/tryhard', 'popupwindow')"
+  onsubmit="window.open('https://buttondown.com/grapefruitgames', 'popupwindow')"
   class="embeddable-buttondown-form"
   style="text-align: center;"
 >
-  <label for="bd-email">or <a href="https://buttondown.com/tryhard" target="_blank">sign-up for email updates</a> </label>
+  <label for="bd-email">or <a href="https://buttondown.com/grapefruitgames" target="_blank">sign-up for email updates</a> </label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="SUBSCRIBE" />
 </form>
@@ -55,14 +55,14 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
 </p>
 <form
-  action="https://buttondown.com/api/emails/embed-subscribe/tryhard"
+  action="https://buttondown.com/api/emails/embed-subscribe/grapefruitgames"
   method="post"
   target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/tryhard', 'popupwindow')"
+  onsubmit="window.open('https://buttondown.com/grapefruitgames', 'popupwindow')"
   class="embeddable-buttondown-form"
   style="text-align: center;"
 >
-  <label for="bd-email">or <a href="https://buttondown.com/tryhard" target="_blank">sign-up for email updates</a></label>
+  <label for="bd-email">or <a href="https://buttondown.com/grapefruitgames" target="_blank">sign-up for email updates</a></label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="SUBSCRIBE" />
 </form>
