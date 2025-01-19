@@ -52,7 +52,7 @@ hr { padding: 0; margin: 64px; }
 .steambutton {
   display: block;
   font-size: 30px;
-  background-color: #333;
+  background-color: #1b2838;
   color: #FEDE57;
   border: 2px solid black;
   padding: 20px;
@@ -64,6 +64,6 @@ hr { padding: 0; margin: 64px; }
 }
 
 .steambutton:hover {
-  background-color: #444;
+  background-color: #1767f1;
   color: white;
 }
