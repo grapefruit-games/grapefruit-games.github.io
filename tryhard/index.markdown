@@ -13,6 +13,17 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED <br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
 </p>
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/tryhard"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/tryhard', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">or sign-up for updates via email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+</form>
 <br />
 
 ### TACTICAL TURN-BASED AUTO SPORTS
@@ -40,9 +51,20 @@ title: Tryhard, a sports RPG by Grapefruit Games
 
 <br />
 <p style="text-align: center; font-weight: bold;">NO, SERIOUSLY... <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a></p>
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/tryhard"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/tryhard', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">or sign-up for updates via email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+</form>
 
 <br />
-<p style="text-align: center;">EMAIL: <a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
+<p style="text-align: center;">Contact us at <a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
 
 <br />
 (TODO: SCREENSHOT GALLERY)
