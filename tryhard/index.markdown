@@ -12,7 +12,6 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <br />
 <p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED <br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
-</p>
 <form
   action="https://buttondown.com/api/emails/embed-subscribe/tryhard"
   method="post"
@@ -20,10 +19,11 @@ title: Tryhard, a sports RPG by Grapefruit Games
   onsubmit="window.open('https://buttondown.com/tryhard', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">or sign-up for updates via email</label>
+  <label for="bd-email">or <a href="https://buttondown.com/tryhard" target="_blank">sign-up for email updates</a> </label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
 </form>
+</p>
 <br />
 
 ### TACTICAL TURN-BASED AUTO SPORTS
@@ -50,7 +50,8 @@ title: Tryhard, a sports RPG by Grapefruit Games
 - Keep your day job, pay the rent, feed your dog, go on dates... but definitely DO NOT fall in love.
 
 <br />
-<p style="text-align: center; font-weight: bold;">NO, SERIOUSLY... <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a></p>
+<p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...
+<a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
 <form
   action="https://buttondown.com/api/emails/embed-subscribe/tryhard"
   method="post"
@@ -58,10 +59,11 @@ title: Tryhard, a sports RPG by Grapefruit Games
   onsubmit="window.open('https://buttondown.com/tryhard', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">or sign-up for updates via email</label>
+  <label for="bd-email">or <a href="https://buttondown.com/tryhard" target="_blank">sign-up for email updates</a></label>
   <input type="email" name="email" id="bd-email" />
   <input type="submit" value="Subscribe" />
 </form>
+</p>
 
 <br />
 <p style="text-align: center;">Contact us at <a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
