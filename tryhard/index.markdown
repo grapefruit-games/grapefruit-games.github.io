@@ -71,7 +71,7 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <p style="text-align: center;">Contact us at <a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
 <br />
 
-<a href="https://grapefruitgames.com" target="_blank" title="a game by Grapefruit Games"><img width="40%" height="40%" style="margin: 0 auto;" src="../images/LogoName.png" alt="a game by Grapefruit Games"/></a>
+<a href="https://grapefruitgames.com" target="_blank" title="a game by Grapefruit Games"><img width="60%" height="60%" style="margin: 0 auto;" src="../images/LogoName.png" alt="a game by Grapefruit Games"/></a>
 <a href="https://www.nz-code.nz/" target="_blank" title="made with support from CODE NZ"><img width="40%" height="40%" style="margin: 0 auto;" src="images/code_logo.webp" alt="made with support from CODE NZ"/></a>
 
 (TODO: SCREENSHOT GALLERY)
