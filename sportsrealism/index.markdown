@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Sports Realism Manifesto
+subtitle: Most sports games don't know anything about sports; SPORTS REALISM is about making games that reflect the social reality of sports.
+classes: sportsrealism
 ---
 
 ## Most sports games don't know anything about sports.
 
 Sports games don't know anything about taking your kids to practice, playing a pick-up game with your friends, or watching the finals while screaming at the top of your lungs. That is, **sports games don't know anything about your everyday experience of sports.**
 
-Sports games also don't know anything about the funky smell of the locker room, the soothing agony of the ice bath, or the comfort of tying your shoes exactly five times for good luck. Which is to say, **sports games don't know anything about athletes as people.**
+Sports games also don't know anything about the funky smell of the locker room, the lowkey agony of waking up with sore muscles, or the comfort of tying your shoes exactly five times for good luck. Which is to say, **sports games don't know anything about athletes as people.**
 
 That's the keyword: **people.** Sports books, shows, movies - they all know that sports are made of people. Yet somehow, **most sports games don't know anything about people, our lives, or the world we live in.**
 
