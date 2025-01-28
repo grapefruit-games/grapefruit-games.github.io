@@ -86,9 +86,16 @@ input {
 }
 
 .sportsrealism {
-  font-size: 24px !important;
+  font-size: 32px !important;
   color: white !important;
+  text-shadow:
+    3px 3px 0 #000,
+    -3px 3px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
 }
+
+.sportsrealism
 
 .sportsrealism a {
   font-weight: bold !important;
