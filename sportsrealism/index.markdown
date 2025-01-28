@@ -11,7 +11,7 @@ style: sportsrealism
 
 ## Most sports games don't know anything about sports.
 
-Sports games don't know anything about taking kids to practice, playing a pick-up game with friends, or watching the finals and screaming.
+Sports games don't know anything about taking kids to practice, playing a pick-up game with friends, or watching the finals, screaming.
 
 That is, **sports games don't know anything about your everyday experience of sports.**
 
@@ -42,4 +42,4 @@ But we're not the only ones working in sports realism...
 
 Thank you for demanding more of your sports games and supporting sports realism.
 
-- Robert Yang and Eddie Cameron, co-directors of [Grapefruit Games](https://grapefruitgames.com)
+-- sincerely, Robert Yang and Eddie Cameron, co-directors of [Grapefruit Games](https://grapefruitgames.com)
