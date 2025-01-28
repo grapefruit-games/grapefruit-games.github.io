@@ -3,7 +3,11 @@
 
   {%- include head.html -%}
 
+  {% if page.style %}
+  <body class="{{ page.style }}">
+  {% else %}
   <body>
+  {% endif %}
 
     {%- include header.html -%}
 
