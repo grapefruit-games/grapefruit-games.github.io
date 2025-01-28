@@ -5,7 +5,7 @@ description: Most sports games don't know anything about sports; SPORTS REALISM 
 style: sportsrealism
 ---
 
-<video id="background-video" autoplay loop muted poster="sportsrealism_bg.jpg">
+<video id="background-video" autoplay loop muted playsinline disablepictureinpicture poster="sportsrealism_bg.jpg">
   <source src="sportsrealism_bg.mp4" type="video/mp4">
 </video>
 
