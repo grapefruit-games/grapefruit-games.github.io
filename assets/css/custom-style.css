@@ -86,19 +86,22 @@ input {
 }
 
 .sportsrealism {
-  font-size: 32px !important;
+  font-size: 24px !important;
   color: white !important;
-  text-shadow:
-    3px 3px 0 #000,
-    -3px 3px 0 #000,
-    -3px -3px 0 #000,
-    3px -3px 0 #000;
+  text-shadow: 1px 1px 2px black;
 }
 
-.sportsrealism
+.sportsrealism h2 {
+  font-size: 48px !important;
+}
 
 .sportsrealism a {
   font-weight: bold !important;
+  color: yellow;
+}
+
+.sportsrealism a:hover {
+  color: white;
 }
 
 #background-video {
