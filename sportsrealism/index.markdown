@@ -5,6 +5,10 @@ description: Most sports games don't know anything about sports; SPORTS REALISM 
 style: sportsrealism
 ---
 
+<video id="background-video" autoplay loop muted poster="sportsrealism_bg.jpg">
+  <source src="sportsrealism_bg.mp4" type="video/mp4">
+</video>
+
 ## Most sports games don't know anything about sports.
 
 Sports games don't know anything about taking your kids to practice, playing a pick-up game with your friends, or watching the finals while screaming at the top of your lungs. That is, **sports games don't know anything about your everyday experience of sports.**
