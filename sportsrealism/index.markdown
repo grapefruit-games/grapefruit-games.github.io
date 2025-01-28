@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Sports Realism Manifesto
-subtitle: Most sports games don't know anything about sports; SPORTS REALISM is about making games that reflect the social reality of sports.
-classes: sportsrealism
+description: Most sports games don't know anything about sports; SPORTS REALISM is about making games that reflect the social reality of sports.
+style: sportsrealism
 ---
 
 ## Most sports games don't know anything about sports.
