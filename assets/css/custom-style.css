@@ -89,6 +89,7 @@ input {
   font-size: 24px !important;
   color: white !important;
   text-shadow: 2px 2px 4px black;
+  background-color: rgba(8, 8, 16, 0.38);
 }
 
 .sportsrealism header h1 {
