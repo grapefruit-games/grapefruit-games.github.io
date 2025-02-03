@@ -8,6 +8,12 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+
+  {% if page.image %}
+  <meta content="{{ page.image }}" property="og:image">
+  {% else %}
+  <meta content="{{ site.url }}/images/Logo.png" property="og:image">
+  {% endif %}
   
   <link rel="stylesheet" href="../assets/css/custom-style.css">
   
