@@ -47,6 +47,9 @@ title: Tryhard, a sports RPG by Grapefruit Games
 - Explore an authentic 3D recreation of the biggest city in New Zealand!
 - Keep your day job, pay the rent, feed your dog, go on dates... but definitely DO NOT fall in love.
 
+<a href="images/TryhardScreenshot_World04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World04.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_Match04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match04.jpg" alt="Tryhard screenshot"/></a>
+<a href="images/TryhardScreenshot_Match02.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match02.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_World06.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World06.jpg" alt="Tryhard screenshot"/></a>
+
 <br />
 <p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
@@ -54,6 +57,3 @@ title: Tryhard, a sports RPG by Grapefruit Games
 </p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
-
-<a href="images/TryhardScreenshot_World04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World04.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_Match04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match04.jpg" alt="Tryhard screenshot"/></a>
-<a href="images/TryhardScreenshot_Match02.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match02.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_World06.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World06.jpg" alt="Tryhard screenshot"/></a>
