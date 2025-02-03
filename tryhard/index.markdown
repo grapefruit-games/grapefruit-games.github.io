@@ -13,7 +13,7 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED</p>
 <br />
 
-<p style="text-align: center; font-weight: bold;">Want to know when there's a demo / when the game's done?...<br />
+<p style="text-align: center; font-weight: bold;">Want to know when there's a demo / when the game's done?...<br /><br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
 <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">JOIN OUR DISCORD</a>
 </p>
@@ -27,7 +27,7 @@ title: Tryhard, a sports RPG by Grapefruit Games
 ### TACTICAL TURN-BASED AUTO SPORTS
 - Fresh blend of tactical RPG, auto battler, and sports genres.
 - Build the perfect squad from dozens of skills.
-- Rugby knowledge is OPTIONAL. Most rugby players don't know anything about rugby either.
+- Rugby knowledge is OPTIONAL. *It's OK, many rugby players don't know anything about rugby either.*
 
 <br />
 <a href="images/TryhardScreenshot_Match01.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match01.jpg" alt="Tryhard screenshot" /></a><a href="images/TryhardScreenshot_Match03.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match03.jpg" alt="Tryhard screenshot" /></a>
@@ -36,7 +36,7 @@ title: Tryhard, a sports RPG by Grapefruit Games
 ### MANAGE A SPORTS CLUB
 - Search for club sponsors and fundraise for new equipment.
 - You'll need to recruit a secretary, treasurer, and patron too.
-- File paperwork and argue with the bank! The possibilities are endless.
+- File paperwork and argue with the bank! *The possibilities are endless.*
 
 <br />
 <img width="100%" height="100%" src="images/tryhard_characters_bust.png" alt="some of the characters"/>
@@ -45,13 +45,15 @@ title: Tryhard, a sports RPG by Grapefruit Games
 ### LIVE IN VIRTUAL NEW ZEALAND
 - Even if you lose, the story mode continues, just like real-life.
 - Explore an authentic 3D recreation of the biggest city in New Zealand!
-- Keep your day job, pay the rent, feed your dog, go on dates... but definitely DO NOT fall in love.
-
-<a href="images/TryhardScreenshot_World04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World04.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_Match04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match04.jpg" alt="Tryhard screenshot"/></a>
-<a href="images/TryhardScreenshot_Match02.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match02.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_World06.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World06.jpg" alt="Tryhard screenshot"/></a>
+- Keep your day job, pay the rent, feed your dog, go on dates... *but definitely DO NOT fall in love.*
 
 <br />
-<p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...
+<a href="images/TryhardScreenshot_World04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World04.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_Match04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match04.jpg" alt="Tryhard screenshot"/></a>
+<a href="images/TryhardScreenshot_Match02.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match02.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_World06.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World06.jpg" alt="Tryhard screenshot"/></a>
+<br />
+
+<br />
+<p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...<br /><br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
 <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">JOIN OUR DISCORD</a>
 </p>
