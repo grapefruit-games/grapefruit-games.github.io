@@ -27,14 +27,16 @@ title: Tryhard, a sports RPG by Grapefruit Games
 </form>
 <br />
 
+<br />
+<img width="100%" height="100%" src="images/battle1_006.gif" alt="animated GIF of an auto battle sequence"/>
+<br />
+
 ### TACTICAL TURN-BASED AUTO SPORTS
 - Fresh blend of tactical RPG, auto battler, and sports genres.
 - Build the perfect squad from dozens of skills.
 - Rugby knowledge is OPTIONAL. Most rugby players don't know anything about rugby either.
 
-<br />
-<img width="100%" height="100%" src="images/battle1_006.gif" alt="animated GIF of an auto battle sequence"/>
-<br />
+<a href="images/TryhardScreenshot_Match01.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match01.jpg" alt="Tryhard screenshot" /></a><a href="images/TryhardScreenshot_Match03.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match03.jpg" alt="Tryhard screenshot" /></a>
 
 ### MANAGE A SPORTS CLUB
 - Search for club sponsors and fundraise for new equipment.
@@ -71,7 +73,7 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <p style="text-align: center;">Contact us at <a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
 <br />
 
-<a href="https://grapefruitgames.com" target="_blank" title="a game by Grapefruit Games"><img width="60%" height="60%" style="margin: 0 auto;" src="../images/LogoName.png" alt="a game by Grapefruit Games"/></a>
-<a href="https://www.nz-code.nz/" target="_blank" title="made with support from CODE NZ"><img width="40%" height="40%" style="margin: 0 auto;" src="images/code_logo.webp" alt="made with support from CODE NZ"/></a>
+<a href="images/TryhardScreenshot_World04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World04.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_Match04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match04.jpg" alt="Tryhard screenshot"/></a>
+<a href="images/TryhardScreenshot_Match02.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match02.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_World06.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World06.jpg" alt="Tryhard screenshot"/></a>
 
-(TODO: SCREENSHOT GALLERY)
+<a href="https://grapefruitgames.com" target="_blank" title="a game by Grapefruit Games"><img width="60%" height="60%" style="margin: 0 auto;" src="../images/LogoName.png" alt="a game by Grapefruit Games"/></a><a href="https://www.nz-code.nz/" target="_blank" title="made with support from CODE NZ"><img width="40%" height="40%" style="margin: 0 auto;" src="images/code_logo.webp" alt="made with support from CODE NZ"/></a>
