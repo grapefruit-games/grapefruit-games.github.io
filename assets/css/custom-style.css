@@ -29,7 +29,7 @@ hr { padding: 0; margin: 64px; }
         background-color: #1486fe; 
         background-image: url("https://grapefruitgames.com/tryhard/images/tryhard_footer.png");
         background-position: center bottom;
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
 }
 .tryhard a { color: #FEDE57; font-weight: bold; text-decoration: underline;}
