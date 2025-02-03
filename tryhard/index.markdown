@@ -10,7 +10,10 @@ title: Tryhard, a sports RPG by Grapefruit Games
 ## ***Tryhard*** is a sports RPG about managing an underdog <a href="https://en.wikipedia.org/wiki/Rugby" target="_blank" title="it's like American football + soccer">rugby</a> club in <a href="https://en.wikipedia.org/wiki/New_Zealand" target="_blank" title="a modest island nation near Australia">New Zealand</a>.
 
 <br />
-<p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED <br />
+<p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED</p>
+<br />
+
+<p style="text-align: center; font-weight: bold;">Want to know when there's a demo / when the game's done?...<br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
 <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">JOIN OUR DISCORD</a>
 </p>
