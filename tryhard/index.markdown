@@ -1,6 +1,8 @@
 ---
 layout: tryhard
 title: Tryhard, a sports RPG by Grapefruit Games
+description: an upcoming sports RPG about managing an underdog rugby club in New Zealand.
+image: images/Tryhard_Social.png
 ---
 
 # TRYHARD
