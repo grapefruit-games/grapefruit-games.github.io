@@ -12,12 +12,13 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <br />
 <p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED <br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
+<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">or JOIN THE DISCORD</a>
 </p>
-<iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+or <a href="https://grapefruitgames.beehiiv.com/subscribe" target="_blank">sign-up for email updates</a> <iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
 
 <br />
-<img width="100%" height="100%" src="images/battle1_006.gif" alt="animated GIF of an auto battle sequence"/>
+<img width="100%" height="100%" src="images/Tryhard_Battle2_ShortPalettized.gif" alt="animated GIF of an auto battle sequence"/>
 <br />
 
 ### TACTICAL TURN-BASED AUTO SPORTS
@@ -44,19 +45,10 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <br />
 <p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
+  <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">or JOIN THE DISCORD</a>
 </p>
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/grapefruitgames"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/grapefruitgames', 'popupwindow')"
-  class="embeddable-buttondown-form"
-  style="text-align: center;"
->
-  <label for="bd-email">or <a href="https://buttondown.com/grapefruitgames" target="_blank">sign-up for email updates</a></label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="SUBSCRIBE" />
-</form>
+or <a href="https://grapefruitgames.beehiiv.com/subscribe" target="_blank">sign-up for email updates</a> <iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+<br />
 
 <br />
 <p style="text-align: center;">Contact us at <a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
