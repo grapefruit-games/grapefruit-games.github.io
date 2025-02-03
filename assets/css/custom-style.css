@@ -25,11 +25,11 @@ hr { padding: 0; margin: 64px; }
   border: 0;
 }
 
-.tryhard { font-family: 'Nunito', sans-serif !important; color: white; font-size: 20px; margin: 0; padding: 16px 0 10% 0;
+.tryhard { font-family: 'Nunito', sans-serif !important; color: white; font-size: 20px; margin: 0; padding: 16px 0 6% 0;
         background-color: #1486fe; 
         background-image: url("https://grapefruitgames.com/tryhard/images/tryhard_footer.png");
         background-position: center bottom;
-        background-size: cover;
+        background-size: contain;
         background-repeat: no-repeat;
 }
 .tryhard a { color: #FEDE57; font-weight: bold; text-decoration: underline;}
