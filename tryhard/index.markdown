@@ -12,9 +12,9 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <br />
 <p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED <br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
-<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">or JOIN THE DISCORD</a>
+<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">JOIN OUR DISCORD</a>
 </p>
-<iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+<iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
 
 <br />
@@ -26,7 +26,9 @@ title: Tryhard, a sports RPG by Grapefruit Games
 - Build the perfect squad from dozens of skills.
 - Rugby knowledge is OPTIONAL. Most rugby players don't know anything about rugby either.
 
+<br />
 <a href="images/TryhardScreenshot_Match01.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match01.jpg" alt="Tryhard screenshot" /></a><a href="images/TryhardScreenshot_Match03.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match03.jpg" alt="Tryhard screenshot" /></a>
+<br />
 
 ### MANAGE A SPORTS CLUB
 - Search for club sponsors and fundraise for new equipment.
@@ -45,9 +47,9 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <br />
 <p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
-  <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">or JOIN THE DISCORD</a>
+<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">JOIN OUR DISCORD</a>
 </p>
-<iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+<iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
 
 <br />
