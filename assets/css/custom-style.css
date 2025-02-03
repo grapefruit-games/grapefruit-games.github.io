@@ -25,7 +25,7 @@ hr { padding: 0; margin: 64px; }
   border: 0;
 }
 
-.tryhard { font-family: 'Nunito', sans-serif !important; color: white; font-size: 20px; margin: 0; padding: 16px 0 25% 0;
+.tryhard { font-family: 'Nunito', sans-serif !important; color: white; font-size: 20px; margin: 0; padding: 16px 0 15% 0;
         background-color: #1486fe; 
         background-image: url("https://grapefruitgames.com/tryhard/images/tryhard_footer.png");
         background-position: center bottom;
