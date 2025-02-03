@@ -14,7 +14,7 @@ title: Tryhard, a sports RPG by Grapefruit Games
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
 <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">or JOIN THE DISCORD</a>
 </p>
-or <a href="https://grapefruitgames.beehiiv.com/subscribe" target="_blank">sign-up for email updates</a> <iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
 
 <br />
@@ -47,15 +47,15 @@ or <a href="https://grapefruitgames.beehiiv.com/subscribe" target="_blank">sign-
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
   <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">or JOIN THE DISCORD</a>
 </p>
-or <a href="https://grapefruitgames.beehiiv.com/subscribe" target="_blank">sign-up for email updates</a> <iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
+<iframe src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
 
 <br />
-<p style="text-align: center;">Contact us at <a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
+<p style="text-align: center;"><a href="mailto:tryhard@grapefruitgames.com">tryhard@grapefruitgames.com</a></p>
 <br />
 
 <a href="images/TryhardScreenshot_World04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World04.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_Match04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match04.jpg" alt="Tryhard screenshot"/></a>
 <a href="images/TryhardScreenshot_Match02.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match02.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_World06.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World06.jpg" alt="Tryhard screenshot"/></a>
 
 <a href="https://grapefruitgames.com" target="_blank" title="a game by Grapefruit Games"><img width="50%" height="65%" style="margin: 0 auto;" src="../images/LogoName.png" alt="a game by Grapefruit Games"/></a> 
- &nbsp; <a href="https://www.nz-code.nz/" target="_blank" title="made with support from CODE NZ"><img width="40%" height="40%" style="margin: 0 auto;" src="images/code_logo.webp" alt="made with support from CODE NZ"/></a>
+ &nbsp; &nbsp; <a href="https://www.nz-code.nz/" target="_blank" title="made with support from CODE NZ"><img width="40%" height="40%" style="margin: 0 auto;" src="images/code_logo.webp" alt="made with support from CODE NZ"/></a>
