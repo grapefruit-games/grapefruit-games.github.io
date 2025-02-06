@@ -24,7 +24,7 @@ But if you desire change, if you yearn for freedom - come with us and **escape t
 ## THE SPORTSLIKE *can* think about sports.
 
 - **The Sportslike** is much *like* a Sports Game.
-- However, **The Sportslike** is also *not* a Sports Game. It's a different game genre with different conventions.
+- However, **The Sportslike** is also *not* a Sports Game. It's a different game genre with different baggage.
 - Because it isn't a Sports Game, **The Sportslike can think about sports.**
 
 ## A brief guide - how to think about sports with SPORTSLIKES
