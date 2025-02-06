@@ -27,12 +27,13 @@ The rest of us desire change, yearn for freedom - **to escape the prison of The 
 
 ## A brief guide - how to think about sports with SPORTSLIKES
 
-1. **Think about your favorite sports books, shows, or movies.** <br /> *Imagine a sportslike about a high school football coach trying to do the right thing, a clueless tourist coaching a pro soccer team, or a ragtag heist underneath a race track.*
-2. **Think about real-life people in real-life sports.** <br /> *Picture a sportslike about a breakdancing professor, sharpshooting cyberpunk, overly-endowed gymnast, or a teenage darts prodigy who's never needed a fake ID.*
-3. **Think about sports news, politics, or history.** <br /> *Visualize a sportslike about a basketball superstar trying to fall asleep after getting traded with no warning, or a sportslike about an unlikable schoolboy who spoils a football match by picking up the ball and running with it.*
+1. **Think about your favorite sports books, shows, or movies.** <br /> *Imagine a game about a high school football coach trying to do the right thing, a clueless tourist coaching a pro soccer team, or a ragtag heist underneath a race track.*
+2. **Think about real-life people in real-life sports.** <br /> *Picture a game about a breakdancing professor, sharpshooting cyberpunk, overly-endowed gymnast, or a teenage darts prodigy who's never needed a fake ID.*
+3. **Think about sports news, politics, or history.** <br /> *Visualize a game about a basketball superstar trying to fall asleep after getting traded with no warning.*
 
-- It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its overall design, systems, or community.
+- It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its controls, systems, or community.
 - To think about a sport, you don't have to recreate an entire sport. Only recreate what you need. Sometimes what you need is none.
+- Or, invent a new sport entirely.
 
 ***
 
@@ -41,13 +42,14 @@ The rest of us desire change, yearn for freedom - **to escape the prison of The 
 We wrote the Sportslike Manifesto to crystalize our thinking for our upcoming game [Tryhard](https://tryhardgame.com), *"a sports RPG about managing an underdog rugby club in New Zealand."*
 
 But here's some other games that we consider to be sportslikes:
-
+- [QWOP (2008)](https://www.foddy.net/Athletics.html) is a browser game about moving your legs.
+- [Sportsfriends (2013)](https://gutefabrik.com/sportsfriends/) is *a compendium of award-winning local multiplayer games* about fights, pole vaults, velocity, and physicality.
 - [Golf Story (2017)](https://sidebargames.com/golfstory/), is *"the story of a golfer, forced to give up all that he holds dear for one final shot at accomplishing his dream."*
 - [Roller Drama (2023)](https://www.open-lab.com/games/rollerdrama/) is *"a narrative and a strategic real-time sports game about five girls playing roller derby in an oppressive and surveillance-based society."*
 - [Sudden Death (2024)](https://dominoclub.itch.io/sudden-death) is *a "romantic sports fiction" visual novel about a renegade Australian Rules Football club in a speculative future league.*
 - [Despelote (2025)](https://despelote.game) is *"a slice-of-life adventure about childhood and the magical grip soccer held over the people of Quito, Ecuador in 2001."*
 
-Thank you for supporting new sports games; thank you for supporting sportslikes.
+Thank you for supporting new approaches to sports game design; thank you for supporting sportslikes.
 
 -- sincerely, Robert Yang, co-director of [Grapefruit Games](https://grapefruitgames.com)
 
