@@ -12,12 +12,14 @@ style: sports
 ## THE SPORTS GAME *can't* think about sports.
 
 - **The Sports Game ignores our everyday experiences of sports.** <br /> *The Sports Game doesn't take kids to practice, play pick-up games with friends, or scream at the TV.*
-- **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before the finals, or tie shoes five times for good luck.*
+- **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before a match, or tie shoes five times for good luck.*
 - **The Sports Game pretends culture, politics, and tech don't influence sports.** <br /> *The Sports Game won't address sports betting, sportswashing, or steroids - powerful forces shaping every pro league today.*
 
-Perhaps it's unfair to demand that The Sports Game must think about all aspects of sports, even the parts it can't easily monetize. OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year!
+The Sports Game is pretty busy. Everyone expects The Sports Game to have franchise modes, career modes, brand new animations, photorealistic stadiums, detailed grass physics, advanced sweat shaders - it's a lot to do! It doesn't leave much time for thinking.
 
-The rest of us desire change, yearn for freedom - **to escape the prison of The Sports Game genre.**
+Perhaps it's unfair to demand that The Sports Game must think about all aspects of sports, even the parts it can't easily upscale or monetize. OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year!
+
+But if you desire change, if you yearn for freedom - come with us and **escape the prison of The Sports Game genre.**
 
 ## THE SPORTSLIKE *can* think about sports.
 
@@ -31,9 +33,11 @@ The rest of us desire change, yearn for freedom - **to escape the prison of The 
 2. **Think about real-life people in real-life sports.** <br /> *Picture a game about a breakdancing professor, sharpshooting cyberpunk, overly-endowed gymnast, or a teenage darts prodigy who's never needed a fake ID.*
 3. **Think about sports news, politics, or history.** <br /> *Visualize a game about a basketball superstar trying to fall asleep after getting traded with no warning.*
 
-- It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its controls, systems, or community.
-- To think about a sport, you don't have to recreate an entire sport. Only recreate what you need. Sometimes what you need is none.
-- Or, invent a new sport entirely.
+It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its controls, systems, or community.
+
+To think about a sport, you don't have to recreate an entire sport. Only recreate what you need. Sometimes what you need is none.
+
+Or maybe invent a new sport entirely that takes places in the far future and spans the entirety of North America.
 
 ***
 
