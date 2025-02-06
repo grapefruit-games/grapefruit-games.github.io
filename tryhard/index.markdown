@@ -61,4 +61,8 @@ Want to follow updates / when it's done?...</p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br /><br />
 
+<div style="text-shadow: 2px 2px 4px black;">
+  
 *Design and dev by [Grapefruit Games](https://grapefruitgames.com). Characters by [Toby Morris](https://cargocollective.com/XTOTL). Game audio by [Ākau Audio](https://akauaudio.co.nz). Trailer music is ["Hyper Action Kung Fu Battle Climax Fury 2" by Untimely Dosage](https://freemusicarchive.org/music/the-what-now/smells-like-the-bronx-in-here-the-lamaas-collection/hyper-action-kung-fu-battle-climax-fury-2/) under CC-BY 4.0 licence.*
+
+</div>
