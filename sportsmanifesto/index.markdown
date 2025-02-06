@@ -17,7 +17,7 @@ style: sports
 
 Perhaps it's unfair to demand that The Sports Game must think about all aspects of sports, even the parts it can't easily monetize. OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year!
 
-The rest of us desire freedom. **To escape the prison of The Sports Game, we must invent a new genre.**
+The rest of us desire change, yearn for freedom - **to escape the prison of The Sports Game genre.**
 
 ## THE SPORTSLIKE *can* think about sports.
 
