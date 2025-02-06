@@ -9,23 +9,23 @@ style: sports
   <source src="sportsrealism_bg.mp4" type="video/mp4">
 </video>
 
-## THE SPORTS GAME can't think about sports.
+## THE SPORTS GAME *can't* think about sports.
 
 - **The Sports Game ignores our everyday experiences of sports.** <br /> *The Sports Game doesn't take kids to practice, play pick-up games with friends, or scream at the TV.*
 - **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before the finals, or tie shoes five times for good luck.*
 - **The Sports Game pretends culture, politics, and tech don't influence sports.** <br /> *The Sports Game won't address sports betting, sportswashing, or steroids - powerful forces shaping every pro league today.*
 
-Perhaps it's unfair to demand The Sports Game to think about all aspects of sports, even the parts you can't easily monetize. OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year!
+Perhaps it's unfair to demand that The Sports Game must think about all aspects of sports, even the parts it can't easily monetize. OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year!
 
 The rest of us desire freedom. **To escape the prison of The Sports Game, we must invent a new genre.**
 
-## Therefore: THE SPORTSLIKE can think about sports.
+## THE SPORTSLIKE *can* think about sports.
 
-- **The Sportslike** is much *like* The Sports Game.
-- However, **The Sportslike** is also *not* The Sports Game. It is a different genre with different conventions.
+- **The Sportslike** is much *like* a Sports Game.
+- However, **The Sportslike** is also *not* a Sports Game. It's a different game genre with different conventions.
 - Because it isn't a Sports Game, **The Sportslike can think about sports.**
 
-## How to think about sports with SPORTSLIKES
+## A brief guide - how to think about sports with SPORTSLIKES
 
 1. **Think about your favorite sports books, shows, or movies.** <br /> *Imagine a sportslike about a high school football coach trying to do the right thing, a clueless tourist coaching a pro soccer team, or a ragtag heist underneath a race track.*
 2. **Think about real-life people in real-life sports.** <br /> *Picture a sportslike about a breakdancing professor, sharpshooting cyberpunk, overly-endowed gymnast, or a teenage darts prodigy who's never needed a fake ID.*
