@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Sportslike Manifesto
-description: Sportslikes are games about people who live in sports.
+description: Sportslikes are games that think about sports - often socially, culturally, psychologically. They're LIKE Sports Games, but they're NOT.
 style: sports
 ---
 
@@ -9,31 +9,34 @@ style: sports
   <source src="sportsrealism_bg.mp4" type="video/mp4">
 </video>
 
-## Sports are made of people, but sports games aren't.
+## THE SPORTS GAME can't think about sports.
 
-**Sports games don't** take kids to practice, play a pick-up game with friends, or scream at the TV.
+- **The Sports Game ignores our everyday experiences of sports.** <br /> *The Sports Game doesn't take kids to practice, play pick-up games with friends, or scream at the TV.*
+- **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before the finals, or tie shoes five times for good luck.*
+- **The Sports Game pretends culture, politics, and tech don't influence sports.** <br /> *The Sports Game won't address sports betting, sportswashing, or steroids - powerful forces shaping every pro league today.*
 
-**Sports games can't** smell the locker room, rub aching muscles, or tie shoes five times for good luck. 
+Perhaps it's unfair to demand The Sports Game to think about all aspects of sports, even the parts you can't easily monetize. OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year!
 
-**Sports games won't** ever care about all the people who live in sports: spectator and player, amateur and pro, young and old.
+The rest of us desire freedom. **To escape the prison of The Sports Game, we must invent a new genre.**
 
-## SPORTSLIKES are games about people who live in sports.
+## Therefore: THE SPORTSLIKE can think about sports.
 
-Imagine a sportslike about a high school football coach trying to keep his soul, an American tourist gleefully ignorant about soccer, or a clumsy heist underneath a race track. 
+- **The Sportslike** is much *like* The Sports Game.
+- However, **The Sportslike** is also *not* The Sports Game. It is a different genre with different conventions.
+- Because it isn't a Sports Game, **The Sportslike can think about sports.**
 
-There's also a sportslike about a breakdancing professor, an overly-endowed gymnast, and a sharpshooting cyberpunk. 
+## How to think about sports with SPORTSLIKES
 
-And does the world need yet another sports game that dryly simulates darts for the fifteenth time, or would we be better off with a sportslike about an intense teenage darts prodigy who definitely never needed a fake ID?
+1. **Think about your favorite sports books, shows, or movies.** <br /> *Imagine a sportslike about a high school football coach trying to do the right thing, a clueless tourist coaching a pro soccer team, or a ragtag heist underneath a race track.*
+2. **Think about real-life people in real-life sports.** <br /> *Picture a sportslike about a breakdancing professor, sharpshooting cyberpunk, overly-endowed gymnast, or a teenage darts prodigy who's never needed a fake ID.*
+3. **Think about sports news, politics, or history.** <br /> *Visualize a sportslike about a basketball superstar trying to fall asleep after getting traded with no warning, or a sportslike about an unlikable schoolboy who spoils a football match by picking up the ball and running with it.*
 
-Freed from the shackles of the sports game genre, **the sportslike can finally be what sports are: made of people.**
-
-Spectator and player, amateur and pro, young and old. Funny, weird, sexy, angry, and tragic. History, culture, society.
-
-If sports are life, if sports mean the world to you - then you'll find a lot to like in the sportslike.
+- It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its overall design, systems, or community.
+- To think about a sport, you don't have to recreate an entire sport. Only recreate what you need. Sometimes what you need is none.
 
 ***
 
-## Where to find sportslikes
+## Where to find SPORTSLIKES
 
 We wrote the Sportslike Manifesto to crystalize our thinking for our upcoming game [Tryhard](https://tryhardgame.com), *"a sports RPG about managing an underdog rugby club in New Zealand."*
 
