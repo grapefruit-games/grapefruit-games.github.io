@@ -9,7 +9,7 @@ image: images/Tryhard_Social.png
 
 <div class="youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Phbxm95I1X0?si=mU_z7dNlK4M7WC-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br />
 
-## ***Tryhard*** &nbsp; is a sports RPG about managing an underdog <a href="https://en.wikipedia.org/wiki/Rugby" target="_blank" title="it's like American football + soccer">rugby</a> club in <a href="https://en.wikipedia.org/wiki/New_Zealand" target="_blank" title="a modest island nation near Australia">New Zealand</a>.
+## **Tryhard** is a sports RPG about managing an underdog <a href="https://en.wikipedia.org/wiki/Rugby" target="_blank" title="it's like American football + soccer">rugby</a> club in <a href="https://en.wikipedia.org/wiki/New_Zealand" target="_blank" title="a modest island nation near Australia">New Zealand</a>.
 
 <br />
 <p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED<br />
