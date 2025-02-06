@@ -5,7 +5,7 @@ description: an upcoming sports RPG about managing an underdog rugby club in New
 image: images/Tryhard_Social.png
 ---
 
-# TRYHARD
+<img width="100%" height="100%" src="images/Tryhard_Logo2_White.png" alt="The game is called Tryhard" />
 
 <div class="youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/Phbxm95I1X0?si=mU_z7dNlK4M7WC-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><br />
 
