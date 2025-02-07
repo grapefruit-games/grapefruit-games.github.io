@@ -116,15 +116,15 @@ input {
 
 .sports {
   font-size: 20px !important;
-  line-height: 20px;
+  line-height: 30px;
   color: white !important;
   text-shadow: 2px 2px 4px black;
   background-color: black !important;
 }
 
-.sports li {
-  margin-top: 10px;
-  margin-bottom: 10px;
+.sports li, .sports p {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .sports header h1 {
@@ -132,11 +132,13 @@ input {
   padding: 0 !important;
   color: white !important;
   text-align: center !important;
-  margin: 32px;
+  margin: 64px;
 }
 
 .sports h2 {
   font-size: 48px !important;
+  line-height: 60px;
+  color: blue !important;
 }
 
 .sports a {
