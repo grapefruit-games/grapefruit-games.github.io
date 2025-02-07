@@ -21,7 +21,7 @@ The Sports Game is too busy becoming a sport, so it doesn't have time to think a
 
 But **sports are made of people!** If it can't think about people, then The Sports Game can't think about sports.
 
-If you'd like to try thinking about sports, then you must **escape the prison of The Sports Game genre.**
+If you'd like to try thinking about sports, then you must **drop the baggage of The Sports Game genre.**
 
 ***
 
