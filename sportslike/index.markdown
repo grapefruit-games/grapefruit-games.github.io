@@ -5,8 +5,8 @@ description: Sportslikes are games that think about sports - often socially, cul
 style: sports
 ---
 
-<video id="background-video" autoplay loop muted playsinline disablepictureinpicture poster="sports_bg.jpg">
-  <source src="sports_bg.mp4" type="video/mp4">
+<video id="background-video" autoplay loop muted playsinline disablepictureinpicture poster="sportslike.jpg">
+  <source src="sportslike.mp4" type="video/mp4">
 </video>
 
 ## THE SPORTS GAME *can't* think about sports.
