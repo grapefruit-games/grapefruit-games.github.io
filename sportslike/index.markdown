@@ -43,7 +43,7 @@ It's most obvious when a game thinks via in-game text / audio / visuals, but it 
 
 You don't have to recreate an entire sport. Only make what you need to think. Sometimes what you need is none. Or sometimes you need a whole new sport.
 
-**
+***
 
 ## Where to find SPORTSLIKES
 
