@@ -26,7 +26,7 @@ But if you desire change - come with us and **escape the prison of The Sports Ga
 ## THE SPORTSLIKE *can* think about sports.
 
 - **The Sportslike** is much *like* a Sports Game.
-- However, **The Sportslike** is also *not* a Sports Game. It's a different game genre with different baggage.
+- However, **The Sportslike** is *not* a Sports Game.
 - Because it isn't a Sports Game, **The Sportslike can think about sports.**
 
 ## A brief guide - how to think about sports with SPORTSLIKES
@@ -39,7 +39,7 @@ It's most obvious when a game thinks via in-game text / audio / visuals, but it 
 
 To think about a sport, you don't have to recreate an entire sport. Only recreate what you need. Sometimes what you need is none.
 
-Or maybe invent a new sport entirely that takes places in the far future and spans the entirety of North America.
+Or maybe invent a new sport entirely. The thinking is what matters.
 
 ***
 
