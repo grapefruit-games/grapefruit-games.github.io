@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Sportslike Manifesto
-description: Sportslikes are games that think about sports - often socially, culturally, psychologically. They're LIKE Sports Games, but they're NOT.
+description: Sportslikes are games that think about sports and the people in sports. They're LIKE Sports Games, but they're NOT.
 style: sports
 ---
 
@@ -9,37 +9,37 @@ style: sports
   <source src="sportslike.mp4" type="video/mp4">
 </video>
 
-## THE SPORTS GAME *can't* think about sports.
+## THE SPORTS GAME -can't- think about sports.
+
+THE SPORTS GAME IS TOO BUSY. After all, every Sports Game has to have franchise-career modes, motion captured stadiums, sweaty grass physics, and the latest microtransactions. It's a lot.
+
+The Sports Game is too busy becoming a sport, so it doesn't have time to think about the people in sports:
 
 - **The Sports Game ignores our everyday experiences of sports.** <br /> *The Sports Game doesn't take kids to practice, play pick-up games with friends, or scream at the TV.*
 - **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before a match, or tie shoes five times for good luck.*
-- **The Sports Game pretends culture, politics, and tech don't influence sports.** <br /> *The Sports Game won't address sports betting, sportswashing, or steroids - powerful forces shaping every pro league today.*
+- **The Sports Game pretends society doesn't influence sports.** <br /> *The Sports Game will never address sports betting or steroids - powerful forces shaping every pro league today.*
 
-The Sports Game is busy. Franchise modes, career modes, new mocap, new stadiums, grass physics, sweaty skin! 
+But **sports are made of people!** If The Sports Game can't think about people, then it can't think about sports.
 
-Of course The Sports Game doesn't have time to think about sports. It's too busy trying to become a sport.
+If you'd like to try thinking about sports, then you must **escape the prison of The Sports Game genre.**
 
-OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year.
-
-But if you desire change - come with us and **escape the prison of The Sports Game genre.**
-
-## THE SPORTSLIKE *can* think about sports.
+## THE SPORTS*LIKE* -can- think about sports.
 
 - **The Sportslike** is much *like* a Sports Game.
 - However, **The Sportslike** is *not* a Sports Game.
-- Because it isn't a Sports Game, **The Sportslike can think about sports.**
+- Because it's not a Sports Game, **The Sportslike can think about sports.**
 
-## A brief guide - how to think about sports with SPORTSLIKES
+## A guide - how to think about sports with SPORTSLIKES
 
-1. **Think about your favorite sports books, shows, or movies.** <br /> *Imagine a game about a high school football coach trying to do the right thing, a clueless tourist coaching a pro soccer team, or a ragtag heist underneath a race track.*
-2. **Think about real-life people in real-life sports.** <br /> *Picture a game about a breakdancing professor, sharpshooting cyberpunk, overly-endowed gymnast, or a teenage darts prodigy who's never needed a fake ID.*
-3. **Think about sports news, politics, or history.** <br /> *Visualize a game about a basketball superstar trying to fall asleep after getting traded with no warning.*
+1. **Think about sports books, shows, or movies.** <br /> *Imagine a game about a high school football coach trying to do the right thing, or a clueless tourist coaching a pro soccer team.*
+2. **Think about real-life athletes.** <br /> *Picture a game about a breakdancing professor, overly-endowed gymnast, or teenage darts prodigy who's never needed a fake ID.*
+3. **Think about sports news or history.** <br /> *Visualize a game about a basketball superstar trying to fall asleep after getting traded with no warning.*
+4. **Think about people who work in sports.** <br /> *What if we had games about looking for smuggled beer, cleaning stadium urinals, or throwing hot dogs?*
+5. **Think about sports.** <br /> *What's the deal with sportswashing?
 
 It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its controls, systems, or community.
 
-To think about a sport, you don't have to recreate an entire sport. Only recreate what you need. Sometimes what you need is none.
-
-Or maybe invent a new sport entirely. The thinking is what matters.
+You don't have to recreate an entire sport. Only make what you need to think. Sometimes what you need is none. Or sometimes you need a whole new sport.
 
 ***
 
@@ -57,4 +57,4 @@ But here's some other games that we consider to be sportslikes:
 
 Thank you for supporting new approaches to sports game design; thank you for supporting sportslikes.
 
-- [Grapefruit Games](https://grapefruitgames.com)
+-- [Grapefruit Games](https://grapefruitgames.com)
