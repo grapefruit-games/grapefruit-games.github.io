@@ -142,7 +142,8 @@ input {
 }
 
 .sports .post-content {
-  backdrop-filter: blur(10px);
+  background-color: black !important;
+  padding: 16px !important;
 }
 
 #background-video {
