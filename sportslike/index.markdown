@@ -50,8 +50,6 @@ You don't have to recreate an entire sport. Only make what you need to think. So
 We wrote A Sportslike Manifesto to crystalize our thinking for our upcoming game [Tryhard](https://tryhardgame.com), *"a sports RPG about managing an underdog rugby club in New Zealand."*
 
 But here's some other games that could be sportslikes:
-- [QWOP (2008)](https://www.foddy.net/Athletics.html) is a browser game about moving your legs.
-- [Sportsfriends (2013)](https://gutefabrik.com/sportsfriends/) is *a compendium of award-winning local multiplayer games* about fights, pole vaults, velocity, and physicality.
 - [Golf Story (2017)](https://sidebargames.com/golfstory/), is *"the story of a golfer, forced to give up all that he holds dear for one final shot at accomplishing his dream."*
 - [Roller Drama (2023)](https://www.open-lab.com/games/rollerdrama/) is *"a narrative and a strategic real-time sports game about five girls playing roller derby in an oppressive and surveillance-based society."*
 - [Sudden Death (2024)](https://dominoclub.itch.io/sudden-death) is *a "romantic sports fiction" visual novel about a renegade Australian Rules Football club in a speculative future league.*
