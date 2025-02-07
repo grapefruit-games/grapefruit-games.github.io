@@ -142,8 +142,8 @@ input {
 }
 
 .sports .post-content {
-  background-color: black !important;
-  padding: 16px !important;
+  background-color: rgba(16, 16, 32, 0.9) !important;
+  padding: 0 24px 16px 24px !important;
 }
 
 #background-video {
