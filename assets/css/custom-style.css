@@ -125,6 +125,7 @@ input {
   background-image: none !important;
   padding: 0 !important;
   color: green !important;
+  text-align: center !important;
 }
 
 .sports h2 {
@@ -138,6 +139,10 @@ input {
 
 .sports a:hover {
   color: white;
+}
+
+.sports .post-content {
+  backdrop-filter: blur(10px);
 }
 
 #background-video {
