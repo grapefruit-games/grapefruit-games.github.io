@@ -15,11 +15,13 @@ style: sports
 - **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before a match, or tie shoes five times for good luck.*
 - **The Sports Game pretends culture, politics, and tech don't influence sports.** <br /> *The Sports Game won't address sports betting, sportswashing, or steroids - powerful forces shaping every pro league today.*
 
-The Sports Game is pretty busy. Everyone expects The Sports Game to have franchise modes, career modes, brand new animations, photorealistic stadiums, detailed grass physics, advanced sweat shaders - it's a lot to do! It doesn't leave much time for thinking.
+The Sports Game is busy. Franchise modes, career modes, new mocap, new stadiums, grass physics, sweaty skin! 
 
-Perhaps it's unfair to demand that The Sports Game must think about all aspects of sports, even the parts it can't easily upscale or monetize. OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year!
+Of course The Sports Game doesn't have time to think about sports. It's too busy trying to become a sport.
 
-But if you desire change, if you yearn for freedom - come with us and **escape the prison of The Sports Game genre.**
+OK, you win, The Sports Game: you have our permission to never change! Stay safe, stay the same, year after year.
+
+But if you desire change - come with us and **escape the prison of The Sports Game genre.**
 
 ## THE SPORTSLIKE *can* think about sports.
 
