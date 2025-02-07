@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Sportslike Manifesto
-description: Sportslikes are games that think about sports and the people in sports. They're LIKE Sports Games, but they're NOT.
+description: Sportslikes are games that think about sports and people in sports. They're LIKE Sports Games, but they're NOT.
 style: sports
 ---
 
@@ -19,9 +19,11 @@ The Sports Game is too busy becoming a sport, so it doesn't have time to think a
 - **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before a match, or tie shoes five times for good luck.*
 - **The Sports Game pretends society doesn't influence sports.** <br /> *The Sports Game will never address sports betting or steroids - powerful forces shaping every pro league today.*
 
-But **sports are made of people!** If The Sports Game can't think about people, then it can't think about sports.
+But **sports are made of people!** If it can't think about people, then The Sports Game can't think about sports.
 
 If you'd like to try thinking about sports, then you must **escape the prison of The Sports Game genre.**
+
+***
 
 ## THE SPORTS*LIKE* -can- think about sports.
 
@@ -29,25 +31,25 @@ If you'd like to try thinking about sports, then you must **escape the prison of
 - However, **The Sportslike** is *not* a Sports Game.
 - Because it's not a Sports Game, **The Sportslike can think about sports.**
 
-## A guide - how to think about sports with SPORTSLIKES
+## How to think about sports with SPORTSLIKES
 
 1. **Think about sports books, shows, or movies.** <br /> *Imagine a game about a high school football coach trying to do the right thing, or a clueless tourist coaching a pro soccer team.*
 2. **Think about real-life athletes.** <br /> *Picture a game about a breakdancing professor, overly-endowed gymnast, or teenage darts prodigy who's never needed a fake ID.*
 3. **Think about sports news or history.** <br /> *Visualize a game about a basketball superstar trying to fall asleep after getting traded with no warning.*
 4. **Think about people who work in sports.** <br /> *What if we had games about looking for smuggled beer, cleaning stadium urinals, or throwing hot dogs?*
-5. **Think about sports.** <br /> *What's the deal with sportswashing?
+5. **Think about sports.**
 
 It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its controls, systems, or community.
 
 You don't have to recreate an entire sport. Only make what you need to think. Sometimes what you need is none. Or sometimes you need a whole new sport.
 
-***
+**
 
 ## Where to find SPORTSLIKES
 
-We wrote the Sportslike Manifesto to crystalize our thinking for our upcoming game [Tryhard](https://tryhardgame.com), *"a sports RPG about managing an underdog rugby club in New Zealand."*
+We wrote A Sportslike Manifesto to crystalize our thinking for our upcoming game [Tryhard](https://tryhardgame.com), *"a sports RPG about managing an underdog rugby club in New Zealand."*
 
-But here's some other games that we consider to be sportslikes:
+But here's some other games that could be sportslikes:
 - [QWOP (2008)](https://www.foddy.net/Athletics.html) is a browser game about moving your legs.
 - [Sportsfriends (2013)](https://gutefabrik.com/sportsfriends/) is *a compendium of award-winning local multiplayer games* about fights, pole vaults, velocity, and physicality.
 - [Golf Story (2017)](https://sidebargames.com/golfstory/), is *"the story of a golfer, forced to give up all that he holds dear for one final shot at accomplishing his dream."*
