@@ -11,7 +11,7 @@ style: sports
 
 ## THE SPORTS GAME -can't- think about sports.
 
-THE SPORTS GAME IS TOO BUSY. After all, every Sports Game has to have franchise-career modes, motion captured stadiums, sweaty grass physics, and the latest microtransactions. It's a lot.
+THE SPORTS GAME IS TOO BUSY. Everyone expects it to to have franchise-career modes, motion captured stadiums, sweaty grass physics, and the latest microtransactions. It's a lot.
 
 The Sports Game is too busy becoming a sport, so it doesn't have time to think about the people in sports:
 
@@ -21,7 +21,7 @@ The Sports Game is too busy becoming a sport, so it doesn't have time to think a
 
 But **sports are made of people!** If it can't think about people, then The Sports Game can't think about sports.
 
-If you'd like to try thinking about sports, then you must **drop the baggage of The Sports Game genre.**
+Want to think about sports? Then **drop the baggage of The Sports Game genre.**
 
 ***
 
@@ -34,10 +34,11 @@ If you'd like to try thinking about sports, then you must **drop the baggage of 
 ## How to think about sports with SPORTSLIKES
 
 1. **Think about sports books, shows, or movies.** <br /> *Imagine a game about a high school football coach trying to do the right thing, or a clueless tourist coaching a pro soccer team.*
-2. **Think about real-life athletes.** <br /> *Picture a game about a breakdancing professor, overly-endowed gymnast, or teenage darts prodigy who's never needed a fake ID.*
-3. **Think about sports news or history.** <br /> *Visualize a game about a basketball superstar trying to fall asleep after getting traded with no warning.*
-4. **Think about people who work in sports.** <br /> *What if we had games about looking for smuggled beer, cleaning stadium urinals, or throwing hot dogs?*
-5. **Think about sports.**
+2. **Think about real-life athletes.** <br /> *Envision a game about a breakdancing professor, overly-endowed gymnast, or teenage darts prodigy who's never needed a fake ID.*
+3. **Think about local sports.** <br /> *Picture a game about a little league team, an after-work softball league, or retirees playing bocce ball.*
+4. **Think about sports news or history.** <br /> *Visualize a game about a basketball superstar trying to fall asleep after getting traded with no warning.*
+5. **Think about people who work in sports.** <br /> *What if we had games about checking bags for smuggled beer, cleaning stadium urinals, or throwing hot dogs?*
+6. **Think about sports.** <br /> *Sports aren't just entertainment products to consume -- sports are also things that people do every day, everywhere.*
 
 It's most obvious when a game thinks via in-game text / audio / visuals, but it is also possible for a game to think via its controls, systems, or community.
 
@@ -50,6 +51,7 @@ You don't have to recreate an entire sport. Only make what you need to think. So
 We wrote A Sportslike Manifesto to crystalize our thinking for our upcoming game [Tryhard](https://tryhardgame.com), *"a sports RPG about managing an underdog rugby club in New Zealand."*
 
 But here's some other games that could be sportslikes:
+- [Backyard Baseball 
 - [Golf Story (2017)](https://sidebargames.com/golfstory/), is *"the story of a golfer, forced to give up all that he holds dear for one final shot at accomplishing his dream."*
 - [Roller Drama (2023)](https://www.open-lab.com/games/rollerdrama/) is *"a narrative and a strategic real-time sports game about five girls playing roller derby in an oppressive and surveillance-based society."*
 - [Sudden Death (2024)](https://dominoclub.itch.io/sudden-death) is *a "romantic sports fiction" visual novel about a renegade Australian Rules Football club in a speculative future league.*
