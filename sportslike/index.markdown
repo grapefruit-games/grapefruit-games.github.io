@@ -51,8 +51,8 @@ You don't have to recreate an entire sport. Only make what you need to think. So
 We wrote A Sportslike Manifesto to crystalize our thinking for our upcoming game [Tryhard](https://tryhardgame.com), *"a sports RPG about managing an underdog rugby club in New Zealand."*
 
 But here's some other games that could be sportslikes:
-- [Backyard Baseball 
-- [Golf Story (2017)](https://sidebargames.com/golfstory/), is *"the story of a golfer, forced to give up all that he holds dear for one final shot at accomplishing his dream."*
+- [Backyard Baseball (1997)](https://en.wikipedia.org/wiki/Backyard_Baseball_(video_game)) is a game about children playing baseball.
+- [Golf Story (2017)](https://sidebargames.com/golfstory/) is *"the story of a golfer, forced to give up all that he holds dear for one final shot at accomplishing his dream."*
 - [Roller Drama (2023)](https://www.open-lab.com/games/rollerdrama/) is *"a narrative and a strategic real-time sports game about five girls playing roller derby in an oppressive and surveillance-based society."*
 - [Sudden Death (2024)](https://dominoclub.itch.io/sudden-death) is *a "romantic sports fiction" visual novel about a renegade Australian Rules Football club in a speculative future league.*
 - [Despelote (2025)](https://despelote.game) is *"a slice-of-life adventure about childhood and the magical grip soccer held over the people of Quito, Ecuador in 2001."*
