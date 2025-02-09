@@ -2,6 +2,7 @@
 layout: page
 title: A Sportslike Manifesto
 description: Sportslikes are games that think about sports and sportspeople. They're LIKE Sports Games, but they're NOT.
+image: sportslike.jpg
 style: sports
 ---
 
