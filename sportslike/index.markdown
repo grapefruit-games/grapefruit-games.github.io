@@ -16,10 +16,8 @@ THE SPORTS GAME IS TOO BUSY. Everyone expects franchise-career modes, motion cap
 It's so busy becoming a sport, it can't think about the people in sports:
 
 - **The Sports Game ignores our everyday experiences of sports.** <br /> *The Sports Game doesn't take kids to practice, play pick-up games with friends, or scream at the TV.*
-- **The Sports Game flattens athletes into pawns with no lives.[^1]** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before a match, or tie shoes five times for good luck.*
-- **The Sports Game pretends society doesn't influence sports.** <br /> *The Sports Game will never address sports betting or steroids - powerful forces shaping every pro league today.*
-
-[^1]: "But MyCAREER!"... In 2K25? C'mon man. No.
+- **The Sports Game flattens athletes into pawns with no lives.** <br /> *The Sports Game can't prank teammates on the bus, struggle to fall asleep before a match, or tie shoes five times for good luck.*
+- **The Sports Game pretends society doesn't influence sports.** <br /> *The Sports Game will never address sports betting or steroids - powerful forces shaping every pro league today.*[^2]
 
 But **sports are made of people!** If you can't think about people, then you can't think about sports.
 
