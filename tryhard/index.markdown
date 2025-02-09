@@ -51,6 +51,14 @@ Want to follow updates / when it's done?...</p>
 
 <br />
 <a href="images/TryhardScreenshot_World04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World04.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_Match04.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match04.jpg" alt="Tryhard screenshot"/></a>
+
+### READ OUR SPORTS GAME DESIGN MANIFESTO
+
+We wrote ["A Sportslike Manifesto"](https://grapefruitgames.com/sportslike/) to argue for more games about sports and sportspeople. 
+
+It's time for sports games that actually try something beyond microtransactions! It's time for new sports games!
+
+<br />
 <a href="images/TryhardScreenshot_Match02.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_Match02.jpg" alt="Tryhard screenshot"/></a><a href="images/TryhardScreenshot_World06.jpg" title="click/tap to enlarge" target="_blank"><img width="50%" height="50%" src="images/TryhardScreenshot_World06.jpg" alt="Tryhard screenshot"/></a>
 <br />
 
