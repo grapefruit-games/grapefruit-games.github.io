@@ -56,8 +56,10 @@ But a sportslike is just any game that thinks about sports and sportspeople.
 Here's some other games that could be considered sportslikes:
 - [Backyard Baseball (1997)](https://en.wikipedia.org/wiki/Backyard_Baseball_(video_game)) is a game about children playing baseball.
 - [Golf Story (2017)](https://sidebargames.com/golfstory/) is *"the story of a golfer, forced to give up all that he holds dear for one final shot at accomplishing his dream."*
+- [Blaseball (2020-2023)](https://www.blaseball.com/) was *"a baseball simulation horror game" about sports betting taken to its logical conclusions. It was great.*
 - [Roller Drama (2023)](https://www.open-lab.com/games/rollerdrama/) is *"a narrative and a strategic real-time sports game about five girls playing roller derby in an oppressive and surveillance-based society."*
 - [Sudden Death (2024)](https://dominoclub.itch.io/sudden-death) is *a "romantic sports fiction" visual novel about a renegade Australian Rules Football club in a speculative future league.*
+- [Beastieball (2024)](https://linktr.ee/beastieball) is *"a turn-based volleyball RPG where you coach a sports team of Beasties" - ok technically not people... or are they??*
 - [Despelote (2025)](https://despelote.game) is *"a slice-of-life adventure about childhood and the magical grip soccer held over the people of Quito, Ecuador in 2001."*
 
 Thank you for supporting new approaches to sports game design; thank you for supporting sportslikes.
