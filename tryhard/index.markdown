@@ -17,7 +17,7 @@ Want to follow updates / when it's done?...</p>
 
 <p style="text-align: center; font-weight: bold;">
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a>
-<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">JOIN OUR DISCORD</a>
+<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">IDLE IN OUR DISCORD</a>
 or follow on <a href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">Bluesky</a> or <a href="https://www.instagram.com/radiatoryang/" target="_blank">Instagram</a>
 </p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
@@ -66,7 +66,7 @@ It's time for sports games that actually try something new, beyond microtransact
 <br />
 <p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...<br /><br />
 <a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">WISHLIST ON STEAM</a>
-<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">JOIN OUR DISCORD</a>
+<a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">IDLE IN OUR DISCORD</a>
  or follow on <a href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">Bluesky</a> or <a href="https://www.instagram.com/radiatoryang/" target="_blank">Instagram</a>
 </p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
