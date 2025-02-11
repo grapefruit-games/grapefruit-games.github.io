@@ -29,7 +29,7 @@ or follow on <a href="https://bsky.app/profile/radiatoryang.bsky.social" target=
 
 ### TACTICAL TURN-BASED AUTO SPORTS
 - Fresh blend of tactical RPG, auto battler, and sports genres.
-- Build the perfect squad from dozens of skills.
+- Build the perfect squad from 15+ recruitable characters and dozens of skills inspired by real-life rugby.
 - Rugby knowledge is OPTIONAL. *It's OK, many rugby players don't know anything about rugby either.*
 
 <br />
