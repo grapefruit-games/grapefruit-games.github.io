@@ -31,7 +31,11 @@ hr { padding: 0; margin: 64px; }
         background-position: center bottom;
         background-size: contain;
         background-repeat: no-repeat;
+        background-attachment: fixed;
 }
+
+.tryhard .wrapper { background-color: rgba(20, 134, 254, 0.69); }
+
 .tryhard a { color: #FFEE88; font-weight: bold; text-decoration: underline;}
 .tryhard h1 { text-align: center; font-size: 60px !important; text-transform: uppercase; color: #FEDE57; display: block; 
   font-weight: 900; 
