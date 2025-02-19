@@ -36,7 +36,7 @@ hr { padding: 0; margin: 64px; }
 
 .tryhard .wrapper { background-color: rgba(20, 134, 254, 0.69); }
 
-.tryhard a { color: #FFEE88; font-weight: bold; text-decoration: underline;}
+.tryhard a { color: white; font-weight: bold; text-decoration: underline;}
 .tryhard h1 { text-align: center; font-size: 60px !important; text-transform: uppercase; color: #FEDE57; display: block; 
   font-weight: 900; 
   font-style: italic;  
@@ -65,7 +65,6 @@ input {
 }
 
 .steambutton {
-  display: block;
   font-size: 30px;
   background-color: #1b2838;
   color: #FEDE57;
@@ -90,7 +89,6 @@ input {
 }
 
 .discordbutton {
-  display: block;
   font-size: 30px;
   background-color: #1b2838;
   color: #FEDE57;
