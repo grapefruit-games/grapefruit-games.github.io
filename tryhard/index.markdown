@@ -12,12 +12,8 @@ image: images/Tryhard_Social.png
 ## **Tryhard** is a sports RPG about managing an underdog <a href="https://en.wikipedia.org/wiki/Rugby" target="_blank" title="it's like American football + soccer">rugby</a> club in <a href="https://en.wikipedia.org/wiki/New_Zealand" target="_blank" title="a modest island nation near Australia">New Zealand</a>.
 
 <br />
-<p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED<br />
-Follow us:</p>
-
-<p style="text-align: center; font-weight: bold;">
-<a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">STEAM</a> <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a>
-or follow on <a href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">Bluesky</a> or <a href="https://www.instagram.com/radiatoryang/" target="_blank">Instagram</a>
+<p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED<br /><br />
+<a class="socialbutton steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">STEAM</a> <a class="socialbutton discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a> <a class="socialbutton igbutton" href="https://www.instagram.com/radiatoryang/" target="_blank">INSTAGRAM</a> <a class="socialbutton bskybutton" href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">BLUESKY</a> 
 </p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
@@ -64,8 +60,7 @@ It's time for sports games that actually try something new, beyond microtransact
 
 <br />
 <p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...<br /><br />
-<a class="steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/" title="seriously, plz">STEAM</a> <a class="discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a>
- or follow on <a href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">Bluesky</a> or <a href="https://www.instagram.com/radiatoryang/" target="_blank">Instagram</a>
+<a class="socialbutton steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">STEAM</a> <a class="socialbutton discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a> <a class="socialbutton igbutton" href="https://www.instagram.com/radiatoryang/" target="_blank">INSTAGRAM</a> <a class="socialbutton bskybutton" href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">BLUESKY</a>
 </p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br /><br />
