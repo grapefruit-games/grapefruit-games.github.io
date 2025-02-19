@@ -13,7 +13,7 @@ image: images/Tryhard_Social.png
 
 <br />
 <p style="text-align: center; font-weight: bold;">RELEASE DATE: TO BE ANNOUNCED<br /><br />
-<a class="socialbutton steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">STEAM</a> <a class="socialbutton discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a> <a class="socialbutton igbutton" href="https://www.instagram.com/radiatoryang/" target="_blank">INSTAGRAM</a> <a class="socialbutton bskybutton" href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">BLUESKY</a> 
+<a class="socialbutton steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a> <a class="socialbutton discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a> <a class="socialbutton igbutton" href="https://www.instagram.com/radiatoryang/" target="_blank">INSTAGRAM</a> <a class="socialbutton bskybutton" href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">BLUESKY</a> 
 </p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br />
@@ -60,7 +60,7 @@ It's time for sports games that actually try something new, beyond microtransact
 
 <br />
 <p style="text-align: center; font-weight: bold;">NO, SERIOUSLY...<br /><br />
-<a class="socialbutton steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">STEAM</a> <a class="socialbutton discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a> <a class="socialbutton igbutton" href="https://www.instagram.com/radiatoryang/" target="_blank">INSTAGRAM</a> <a class="socialbutton bskybutton" href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">BLUESKY</a>
+<a class="socialbutton steambutton" href="https://store.steampowered.com/app/3443270/Tryhard/">WISHLIST ON STEAM</a> <a class="socialbutton discordbutton" href="https://discord.gg/qRUZQQX5Tz">DISCORD</a> <a class="socialbutton igbutton" href="https://www.instagram.com/radiatoryang/" target="_blank">INSTAGRAM</a> <a class="socialbutton bskybutton" href="https://bsky.app/profile/radiatoryang.bsky.social" target="_blank">BLUESKY</a>
 </p>
 <iframe class="emailform" src="https://embeds.beehiiv.com/76ee17e3-6cd3-480c-8f66-648486644d9a?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 <br /><br />
