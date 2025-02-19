@@ -65,11 +65,13 @@ input {
 }
 
 .socialbutton {
+  display: inline-block;
   font-size: 30px;
   background-color: #1b2838;
   color: #FEDE57;
   border: 4px solid black;
-  padding: 10px 70px 10px 20px;
+  margin: 4px;
+  padding: 10px 80px 10px 20px;
   border-radius: 20px;
   background-position: right;
   background-size: contain;
