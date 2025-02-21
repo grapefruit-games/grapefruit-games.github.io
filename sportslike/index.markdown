@@ -62,6 +62,10 @@ Here's some other games that could be considered sportslikes:
 - [Beastieball (2024)](https://linktr.ee/beastieball) is *"a turn-based volleyball RPG where you coach a sports team of Beasties" - ok technically not people... or are they??*
 - [Despelote (2025)](https://despelote.game) is *"a slice-of-life adventure about childhood and the magical grip soccer held over the people of Quito, Ecuador in 2001."*
 
+Honorable mentions for sportslikeism in big sports games:
+- NBA 2K series' "MyCareer" mode varies, simulating a pro career with a varying combo of cutscenes, career decisions, NPC conversations, and high school / college flashbacks.
+- MLB The Show series' "Road To The Show" career mode has high school / college phases, as well as ["The Negro Leagues"](https://www.gamedeveloper.com/design/mlb-the-show-s-negro-leagues-inclusion-needed-to-tell-a-story-) episodes with mini-documentaries and short scenarios.
+
 Thank you for supporting new approaches to sports game design; thank you for supporting sportslikes.
 
 -- [Grapefruit Games](https://grapefruitgames.com)
