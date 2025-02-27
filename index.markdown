@@ -20,11 +20,34 @@ Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
 ***
 
-## What we've made
+## Projects
+
+### ["Tryhard"](https://tryhardgame.com)
+
+Our upcoming turn-based sports RPG about managing an underdog rugby club in New Zealand. Outsmart opponents and upgrade your squad, but also feed your dog and go on dates, in this epic saga of love, betrayal, and community sports.
+
+<div class="youtube">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oO6uRbBykeg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+### ["Big Hops"](https://store.steampowered.com/app/1221480/Big_Hops/) for [Luckshot Games](https://www.luckshotgames.com/)
+
+We're designing content for this upcoming *"fresh and froggy action-platformer focused on deep movement and emergent gameplay! Use parkour and your tongue to explore 3 huge, colorful worlds full of charming animal friends and discover a huge range of surprising, playful interactions with veggies and gadgets!"*
+
+<img width="100%" height="100%" src="images/bighops.png"/>
+
+
+### ["Tales of Fablecraft"](https://fablecraft.riftweaver.com/) for [Riftweaver Game Studio](https://riftweaver.com)
+
+We're coding systems for this *"virtual tabletop RPG. It’s easy for GMs and players to learn, whether you've slain many dragons or are completely new to the genre. Fablecraft features its own system, gorgeous human-made art, pre-built campaigns that eliminate prep, and a growing list of homebrew tools."*
+
+<img width="100%" height="100%" src="images/fablecraft.jpg"/>
+
 
 ### ["Eel Afield" / "He tuna kei tua"](https://www.heihei.nz/game/180/eel-afield) for [HEIHEI Games (TVNZ + NZ On Air)](https://www.heihei.nz/games)
 
-In collaboration with illustrator [Dave Hill](https://davehillustration.co.uk/), we made a storybook action-adventure browser game about navigating Aotearoa New Zealand's waterways as a young tuna (longfin eel). Features 8 levels of colorful characters like pūkeko philosophers and paradise duck princesses, as well as hazards like hungry kingfishers and scary hydro turbines, all in a vibrant New Zealand setting. Includes full te reo Māori localization.
+We made a storybook action-adventure browser game about navigating Aotearoa New Zealand's waterways as a young tuna (longfin eel). Features 8 levels of colorful characters like pūkeko philosophers and paradise duck princesses, as well as hazards like hungry kingfishers and scary hydro turbines, all in a vibrant New Zealand setting. Includes full te reo Māori localization. In collaboration with illustrator [Dave Hill](https://davehillustration.co.uk/).
 
 <img width="100%" height="100%" src="images/eel2.png"/>
 
