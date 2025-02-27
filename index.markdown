@@ -1,22 +1,17 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Grapefruit Games
 ---
 
-**We're a small independent video game studio in Aotearoa New Zealand.**
-
-Email us: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
+**We're an independent video game studio in Aotearoa New Zealand.** You can email us at: [contact@grapefruitgames.com](mailto:contact@grapefruitgames.com)
 
 ***
 
 ## What we do
 
-- Game design, player-centered experience design
-- General development and programming for mobile, desktop, and web
-- Code in Unity C#, Swift, Haxe, JS; dev in Unity, XCode, HaxeFlixel
+- Game design, content design, player-centered experience design
+- Dev and engineering for mobile, desktop, and web
+- Code in Unity C#, Swift, TypeScript; dev in Unity, XCode
 
 ***
 
